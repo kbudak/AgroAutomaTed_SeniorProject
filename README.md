@@ -4,8 +4,9 @@ AgroAutomated-SeniorProject Senior Project: Automatic irrigation and soil recomm
 [Poster](https://github.com/kbudak/AgroAutomaTed_SeniorProject/blob/main/Poster%20son.pdf)
 
 ## Screenshots of the app
-![Screenshot_20240803_133550](https://github.com/user-attachments/assets/a81c498d-3cd7-490a-8362-d65e3721678b)
-![Screenshot_20240803_133637](https://github.com/user-attachments/assets/1e3e04ae-a23f-43cc-a120-86e98f3e3e1f)
-![Screenshot_20240803_133701](https://github.com/user-attachments/assets/855d044c-01df-47f7-97c7-83716f07598c)
-![Screenshot_20240803_133650](https://github.com/user-attachments/assets/27cd85ce-a6da-42bb-b287-0fdb9f8fd2f5)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/a81c498d-3cd7-490a-8362-d65e3721678b" alt="Screenshot 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1e3e04ae-a23f-43cc-a120-86e98f3e3e1f" alt="Screenshot 2" width="45%" />
+</div>
+
 
