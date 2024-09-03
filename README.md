@@ -9,8 +9,9 @@ AgroAutomated-SeniorProject Senior Project: Automatic irrigation and soil recomm
   <img src="https://github.com/user-attachments/assets/1e3e04ae-a23f-43cc-a120-86e98f3e3e1f" alt="Screenshot 2" width="45%" />
 </div>
 <div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/92bfcc96-f61c-4efa-bffb-89c9788d1940" alt="Screenshot 1" width="45%" />
   <img src="https://github.com/user-attachments/assets/0372d8d6-57bb-4989-bfe7-8168b2266b89" alt="Screenshot 1" width="45%" />
-  <img src="https://github.com/user-attachments/assets/20fc61e9-4ea1-4b29-98f5-6702a8c0c199" alt="Screenshot 2" width="45%" />
 </div>
+
 
 
